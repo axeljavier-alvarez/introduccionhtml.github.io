@@ -11,4 +11,6 @@
 https://axeljavier-alvarez.github.io/introduccionhtml.github.io/conceptosbasicos.html
 
 ### HTML 
-![](https://images.velog.io/images/kimdlzp/post/c56bd5e7-6060-47c5-b149-83a55675f73b/174854.png)
+<p align="center">
+  <img src="https://images.velog.io/images/kimdlzp/post/c56bd5e7-6060-47c5-b149-83a55675f73b/174854.png" width="350" title="hover text">
+</p>

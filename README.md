@@ -8,7 +8,7 @@ Project done in INTECAP part of the full stack development course, the proyect i
 
 ### Github page
 
-https://axeljavier-alvarez.github.io/introduccionhtml.github.io/conceptosbasicos.html
+https://axeljavier-alvarez.github.io/introduccionhtml.github.io/
 
 ## Developed with
 <p align="center">

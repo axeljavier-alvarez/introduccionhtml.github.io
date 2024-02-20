@@ -1,5 +1,5 @@
 ### Features
-Project done in INTECAP part of the full stack development course, the proyect is about;
+Project done in INTECAP part of the full stack development course, the project is about:
 - views made with the basic labels of html
 - paragraphs and pictures
 - Tables with information and lists
